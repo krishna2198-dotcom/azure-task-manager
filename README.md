@@ -72,7 +72,9 @@ COSMOS_CONTAINER=tasks
 | PUT | /tasks/<id> | Update a task |
 | DELETE | /tasks/<id> | Delete a task |
 
-## Part of Azure Cloud Portfolio
-This is Project 4 of my Azure Cloud Portfolio
-built for the HPE Cloud Developer role.
-🔗 Full Portfolio: https://github.com/krishna2198-dotcom/azure-cloud-portfolio
+
+<img width="1013" height="681" alt="project4-task-manager drawio" src="https://github.com/user-attachments/assets/33b04f84-2dc8-45a4-b586-4ee565f4d7ae" />
+
+
+
+
